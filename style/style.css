@@ -1,0 +1,125 @@
+/* @media only screen and (min-width: 414px) and (max-width: 736px){ */
+  /* Resolução Iphone 7 plus */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.cabecalho__interface__iphone {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.cabecalho__icones__horario {
+  margin: 14px 228px 0 20px;
+}
+
+.cabecalho__icones__iphone {
+  margin-top: 14px;
+}
+
+.cabecalho__instagram__interface {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+
+.cabecalho__instagram__logo {
+  margin: 20px 115px 0 10px;
+}
+
+.cabecalho__icones__instagram {
+  margin-top: 20px;
+}
+
+.container__stories {
+  display: flex;
+  gap: 13px;
+  align-items: center;
+  padding-left: 13px;
+  
+}
+
+.stories {
+  margin-top: 20px;
+  height: 103px;
+}
+
+.container__feed__perfil {
+  display: flex;
+  gap: 13px;
+  align-items: center;
+  padding-left: 12px;
+}
+
+.feed__perfil__foto {
+  margin-top: 20px;
+  margin-right: 265px;
+}
+
+.feed__perfil__interface {
+  margin-top: 20px;
+}
+
+.foto__feed {
+  margin: 20px 0px;
+  width: 414px;
+}
+
+.container__botoes {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  padding-left: 25px;
+}
+
+.botao__salvar {
+  margin-left: 235px;
+}
+
+.likes {
+  display: flex;
+  margin: 12px 12px;
+}
+
+.descricao {
+  display: flex;
+  padding: 0px 7px;
+}
+
+.btn__ver__comentarios {
+  display: flex;
+  margin: 5px 12px;
+}
+
+.add__comentario {
+  display: flex;
+  gap: 185px;
+  align-items: center;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.tempo__feed {
+  display: flex;
+  padding-left: 12px;
+  padding-top: 12px;
+}
+
+.container__footer__instagram {
+  display: flex;
+  align-items: center;
+  gap: 65px;
+  padding: 12px 12px;
+}
+
+.indicador {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
